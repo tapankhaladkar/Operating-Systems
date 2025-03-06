@@ -1,0 +1,1 @@
+g++ -std=c++17 fixed_linker.cpp -o fixed_linker
